@@ -18,5 +18,5 @@ Bundle script:
 
 Then on the other html we requested the javascript and used the component:
 
-<outage-screen></outage-screen>
-<script src="../SmallAngularApp/elements.js"></script>
+* <outage-screen></outage-screen>
+* <script src="../SmallAngularApp/elements.js"></script>
