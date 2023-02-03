@@ -1,8 +1,5 @@
 # MicroFrontendsWithAngular
 
-Based on this youtube video:
-https://www.youtube.com/watch?v=4u9_kdkvTsc
-
 This project we created a Angular Component: "outage-screen"
 
 Made some changes to app.module: 
